@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+button {
+    height: 100px;
+    min-width: 50px;
+    border-color: lightgrey;
+    border-bottom: none;
+    border-right: none;
+}
+.result {
+    width: 80%;
+    min-width: 370px;
+    height: 100px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+
+.numbers {
+    width: 80%;
+}
+.numbers-btn {
+width: 33.3%;
+   
+}
+.operators {
+ display: flex;
+ flex-direction: column;
+ width: 20%;
+}
+
+.operator-btn{
+    background-color: #E49B0F;
+  
+    width: 100%;
+}
+.numbers-container {
+        min-width: 370px;
+    width: 80%;
+    display: flex;
+
+}
