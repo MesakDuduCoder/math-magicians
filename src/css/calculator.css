@@ -12,6 +12,7 @@ button {
     border-color: lightgrey;
     border-bottom: none;
     border-right: none;
+    font-size: 2rem;
 }
 .result {
     width: 80%;
@@ -23,6 +24,7 @@ button {
     align-items: center;
     background-color: lightgray;
     box-sizing: border-box;
+    font-size: 2rem;
 }
 
 .numbers {
