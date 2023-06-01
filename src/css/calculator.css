@@ -52,3 +52,21 @@ button {
   width: 80%;
   display: flex;
 }
+
+.numbers-section-container {
+  width: 100%;
+}
+
+.numbers-box {
+  width: 33.3%;
+}
+
+.numbers-box-container {
+  width: 100%;
+}
+
+.zero {
+  height: 100px;
+  min-width: 50px;
+  width: 66.6%;
+}

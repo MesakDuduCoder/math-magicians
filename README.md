@@ -15,7 +15,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -75,16 +75,15 @@ Read a random math-related quote.
 ### Key Features <a name="key-features"></a>
 
 - **[single_page_app]**
+- **[perform_calculations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](coming soon)
+- [Live Demo Link](coming soon) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,8 +127,6 @@ type and run command on terminal on root of project folder: npm start
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **MesakDuduCoder**
 
 - GitHub: [@githubhandle](https://github.com/MesakDuduCoder)
@@ -142,8 +139,7 @@ type and run command on terminal on root of project folder: npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[ui_for_site]**
-- [ ] **[operations_functionality]**
+- [ ] **[quotes_section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,8 +156,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project show support by liking this repository.
 
