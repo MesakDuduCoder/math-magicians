@@ -14,12 +14,14 @@ function Calculator() {
     e.preventDefault();
     setState((prevState) => calculate(prevState, number));
   }
+  const total = state.total || '';
+  const operation = state.operation || '';
+  const next = state.next || '';
 
-  console.log(state);
   return (
     <div className="container">
       <div className="result">
-        <Display total={state.total} operation={state.operation} next={state.next} />
+        <Display total={total} operation={operation} next={next} />
       </div>
       <div className="numbers-container">
         <div className="numbers">

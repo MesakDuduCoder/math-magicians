@@ -1,13 +1,14 @@
 .container {
   display: flex;
+  height: 85vh;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 20px;
+  background-color: bisque;
 }
 
 button {
-  height: 100px;
+  height: 80px;
   min-width: 50px;
   border-color: lightgrey;
   border-bottom: none;
@@ -16,9 +17,9 @@ button {
 }
 
 .result {
+  height: 80px;
   width: 80%;
   min-width: 370px;
-  height: 100px;
   padding-right: 50px;
   display: flex;
   justify-content: flex-end;
@@ -66,7 +67,7 @@ button {
 }
 
 .zero {
-  height: 100px;
+  height: 80px;
   min-width: 50px;
   width: 66.6%;
 }

@@ -2,9 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 function Display({ total, operation, next }) {
-  console.log(typeof (total));
-  // const next = props.display.next || '';
-  // const operation = props.display.operation || '';
   return (
     <div className="result">
       {total}
