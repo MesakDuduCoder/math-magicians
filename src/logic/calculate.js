@@ -40,6 +40,7 @@ export default function calculate(obj, buttonName) {
         total: null,
       };
     }
+
     return {
       next: buttonName,
       total: null,

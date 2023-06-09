@@ -1,4 +1,10 @@
 .app {
-  background-color: bisque;
   margin: 0;
+  height: 100vh;
+}
+
+.body {
+  margin: 0;
+  padding: 20px;
+  background-color: bisque;
 }
