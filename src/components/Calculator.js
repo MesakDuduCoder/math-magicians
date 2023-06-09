@@ -25,73 +25,73 @@ function Calculator() {
       </div>
       <div className="numbers-container">
         <div className="numbers-row">
-          <button type="button" onClick={(e) => submit(e, 'AC')}>
+          <button type="button" onClick={(e) => submit(e, "AC")}>
             AC
           </button>
-          <button type="button" onClick={(e) => submit(e, '+/-')}>
+          <button type="button" onClick={(e) => submit(e, "+/-")}>
             +/-
           </button>
-          <button type="button" onClick={(e) => submit(e, '%')}>
+          <button type="button" onClick={(e) => submit(e, "%")}>
             %
           </button>
           <button
             className="operator-btn"
             type="button"
-            onClick={(e) => submit(e, '÷')}
+            onClick={(e) => submit(e, "÷")}
           >
             ÷
           </button>
         </div>
         <div className="numbers-row">
-          <button type="button" onClick={(e) => submit(e, '7')}>
+          <button data-testid="7" type="button" onClick={(e) => submit(e, "7")}>
             7
           </button>
-          <button type="button" onClick={(e) => submit(e, '8')}>
+          <button type="button" onClick={(e) => submit(e, "8")}>
             8
           </button>
-          <button type="button" onClick={(e) => submit(e, '9')}>
+          <button type="button" onClick={(e) => submit(e, "9")}>
             9
           </button>
           <button
             className="operator-btn"
             type="button"
-            onClick={(e) => submit(e, 'x')}
+            onClick={(e) => submit(e, "x")}
           >
             x
           </button>
         </div>
         <div className="numbers-row">
-          <button type="button" onClick={(e) => submit(e, '4')}>
+          <button type="button" onClick={(e) => submit(e, "4")}>
             4
           </button>
-          <button type="button" onClick={(e) => submit(e, '5')}>
+          <button type="button" onClick={(e) => submit(e, "5")}>
             5
           </button>
-          <button type="button" onClick={(e) => submit(e, '6')}>
+          <button type="button" onClick={(e) => submit(e, "6")}>
             6
           </button>
           <button
             className="operator-btn"
             type="button"
-            onClick={(e) => submit(e, '-')}
+            onClick={(e) => submit(e, "-")}
           >
             -
           </button>
         </div>
         <div className="numbers-row">
-          <button type="button" onClick={(e) => submit(e, '1')}>
+          <button type="button" onClick={(e) => submit(e, "1")}>
             1
           </button>
-          <button type="button" onClick={(e) => submit(e, '2')}>
+          <button type="button" onClick={(e) => submit(e, "2")}>
             2
           </button>
-          <button type="button" onClick={(e) => submit(e, '3')}>
+          <button type="button" onClick={(e) => submit(e, "3")}>
             3
           </button>
           <button
             className="operator-btn"
             type="button"
-            onClick={(e) => submit(e, '+')}
+            onClick={(e) => submit(e, "+")}
           >
             +
           </button>
@@ -100,17 +100,17 @@ function Calculator() {
           <button
             className="zero"
             type="button"
-            onClick={(e) => submit(e, '0')}
+            onClick={(e) => submit(e, "0")}
           >
             0
           </button>
-          <button type="button" onClick={(e) => submit(e, '.')}>
+          <button type="button" onClick={(e) => submit(e, ".")}>
             .
           </button>
           <button
             className="operator-btn"
             type="button"
-            onClick={(e) => submit(e, '=')}
+            onClick={(e) => submit(e, "=")}
           >
             =
           </button>

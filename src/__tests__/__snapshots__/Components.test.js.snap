@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Operations should be as below renders correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="result"
+    data-testid="display"
+  >
+    <div
+      className="result"
+    >
+       
+       
+    </div>
+  </div>
+  <div
+    className="numbers-container"
+  >
+    <div
+      className="numbers-row"
+    >
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="operator-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      className="numbers-row"
+    >
+      <button
+        data-testid="7"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="operator-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+    </div>
+    <div
+      className="numbers-row"
+    >
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="operator-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      className="numbers-row"
+    >
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="operator-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      className="numbers-row"
+    >
+      <button
+        className="zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="operator-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Operations should be as below renders correctly 2`] = `
+<div
+  className="quote"
+>
+  <div
+    className="text"
+  >
+    Loading..
+  </div>
+</div>
+`;
+
+exports[`Operations should be as below renders correctly 3`] = `
+<div
+  className="result"
+>
+   
+   
+</div>
+`;
+
+exports[`Operations should be as below renders correctly 4`] = `
+<div>
+  <h2>
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus praesentium temporibus in voluptatum voluptate animi mollitia fugiat esse, culpa ex exercitationem possimus expedita vero beatae similique repellat debitis blanditiis labore. Tenetur error dolore necessitatibus dolorem enim quasi tempora eos veritatis, eius ex dignissimos
+  </p>
+  <p>
+    Laboriosam aperiam excepturi cupiditate, eligendi voluptatem ad! In odit incidunt officia. Pariatur sed dolorem aliquam vel omnis, facere quibusdam quasi, quos minima sequi saepe? Libero voluptas enim aperiam tenetur saepe? Molestiae culpa, qui illo quo asperiores, provident officia magnam illum eius consequatur labore, dolore unde eveniet? Reiciendis omnis perspiciatis, voluptate totam nihil, veniam corrupti vitae inventore minus voluptatum, neque nisi!
+  </p>
+</div>
+`;
+
+exports[`Operations should be as below renders correctly 5`] = `
+<div
+  className="header"
+>
+  <h1>
+    Math Magicians
+  </h1>
+  <nav>
+    <a
+      className="links"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="links center"
+      href="/calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+    <a
+      className="links"
+      href="/quote"
+      onClick={[Function]}
+    >
+      Quote
+    </a>
+  </nav>
+</div>
+`;
