@@ -16,7 +16,7 @@ function App() {
       <div className="app">
         <Routes>
           <Route
-            path="math-magicians/"
+            path="/"
             element={(
               <>
                 <Header />
