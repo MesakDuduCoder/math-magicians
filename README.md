@@ -84,7 +84,7 @@ Read a random math-related quote.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mesakduducoder.github.io/math-magicians/)
+- [Live Demo Link](https://math-magician-qcgl.onrender.com/quote)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
